@@ -24,7 +24,7 @@ jobs:
         with:
           node-version: '22.x'
           registry-url: 'https://npm.pkg.github.com'
-          scope: '@ciberramir52'
+          scope: '@Ciberramir52'
         
       - name: Instalar dependencias usando versiones de package-lock.json
         run: npm ci
